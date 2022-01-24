@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(184, 148, 93);
+}
+
+header{
+    background-color: rgb(23, 18, 53);
+    margin-top: -10px;
+    color: floralwhite;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    font-size: 200%;
+    font-weight: bold;
+    text-align: center;
+    border-bottom-left-radius: 35%;
+    border-bottom-right-radius: 35%;
+}
+
+.jb{
+    
+    font-size: 110%;
+    padding-top:50px ;
+    font-weight: bold; 
+    font-family: Geneva;
+    letter-spacing:3px;
+  
+}
+
+.jbd{
+    padding-top:30px;
+    font-family:fantasy
+    font: weight 500px;
+    
+    letter-spacing:3px;
+    
+
+}

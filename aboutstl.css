@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(206, 164, 87);
+
+}
+header{
+    
+    background-color: rgb(48, 48, 53);
+    margin-top: -20px;
+    padding-top: 50px;
+    padding-bottom:20px;
+    text-align: center;
+    border-bottom-left-radius: 35%;
+    border-bottom-right-radius: 35%;
+    
+    color:white;
+}
+
+.txt{
+    font-size: 150%;
+    font-style: italic;
+    font-family:sans-serif;
+    line-height: 35px;
+}
